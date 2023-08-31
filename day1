@@ -1,0 +1,24 @@
+This is the day i have to Take this challenge and start your #90DaysOfDevOps with the #TrainWithShubham Community
+
+❓ What is DevOps ?
+✅DevOps is a set of practices and principles that aim to improve collaboration, communication, and integration between software development (Dev) and IT operations (Ops) teams within an organization. The primary goal of DevOps is to enhance the software development and deployment processes, leading to faster and more reliable software releases.
+❓What is Automation ?
+✅Automation refers to the use of technology and software to perform tasks and processes without human intervention. The goal of automation is to streamline and expedite repetitive, time-consuming, and error-prone tasks, thereby improving efficiency, accuracy, and productivity.
+💡Example of devops tools that make automation easier are : Terraform, Jenkins Git, Github and so on..
+❓What is Scaling ?
+✅Scaling in software refers to the ability of a software system to handle increasing amounts of workload or user traffic without compromising performance, responsiveness, or reliability. When a software application gains popularity or experiences higher demand, scaling becomes essential to ensure that the system can accommodate the increased load without becoming overwhelmed.
+There are two main types of scaling:
+
+Vertical Scaling (Scale Up): Vertical scaling involves increasing the capacity of a single server or machine to handle more workload. This is typically achieved by upgrading hardware components such as CPU, RAM, or storage. While vertical scaling can provide a quick solution to improve performance, there are limits to how much a single machine can be scaled up, and it can be costly.
+Horizontal Scaling (Scale Out): Horizontal scaling involves adding more machines or servers to distribute the workload across multiple instances. Instead of upgrading a single server, new servers are added to the system. This approach allows for better utilization of resources and provides the ability to handle a large number of concurrent users. Horizontal scaling is typically more cost-effective and provides better fault tolerance and redundancy.
+
+❓Why DevOps is Important?
+✅DevOps is important because it fosters collaboration between development and operations teams, leading to faster software development and deployment.
+✅It promotes automation, reducing manual errors and improving efficiency. Continuous Integration and Continuous Delivery ensure frequent, reliable releases.
+✅Infrastructure as Code enables scalable and consistent deployments. Monitoring ensures early issue detection and swift response.
+✅It enhances software quality and customer satisfaction.
+✅DevOps accelerates time-to-market, keeping businesses competitive.
+✅It supports a culture of continuous improvement and innovation.
+✅DevOps streamlines processes, saving time and resources.
+✅Ultimately, it aligns development and operations to meet modern software demands.
+thank you for time <3

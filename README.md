@@ -1,5 +1,2 @@
 # 90DaysOfDevOps
-<p align="center">
-  <img src="C:\Users\mos3ad\Desktop" width="350" title="devops">
-  
-</p>
+![c](https://github.com/mosad2/90DaysOfDevOps/assets/63494835/ccbefa31-41ef-4db9-ba7c-d54d774bf228)
